@@ -1,8 +1,6 @@
 
 # Jonathan "Joko" Koitsalu 
-![](https://i.imgur.com/FPKzLxe.jpg)
-
-
+<img src="https://i.imgur.com/FPKzLxe.jpg" alt="drawing" width="500"/>
 
 ## Introduction
 
