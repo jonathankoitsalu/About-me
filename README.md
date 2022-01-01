@@ -10,16 +10,16 @@ I am a 32 year old student at nackademin where I have studied Internet of things
 
 ## Education
 
-**Lycée Français St Louis** @ Stockholm
+**Lycée Français St Louis** @ Stockholm <br>
 Science degree // September 2004 - Juni 2007
 
-**Kungliga Tekniska Högskolan (KTH)** @ Stockholm
+**Kungliga Tekniska Högskolan (KTH)** @ Stockholm <br>
 Engineer microelectronics // September 2007 - Juni 2009 
 
-**Sahlgrenska akademin** @ Gothenburg
+**Sahlgrenska akademin** @ Gothenburg <br>
 Medicin // September 2009 - Juni 2019
 
-**Nackademin polytechnic** @ Solna 
+**Nackademin polytechnic** @ Solna  <br>
 Internet of things // September 2020 - june 2022
 
 ## Languages
