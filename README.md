@@ -1,6 +1,12 @@
-
 # Jonathan "Joko" Koitsalu 
-<img src="https://i.imgur.com/FPKzLxe.jpg" alt="drawing" width="450"/>
+
+<img src="https://i.imgur.com/FPKzLxe.jpg" alt="drawing" width="400" style="float: left;"/>
+
+github: https://github.com/jonathankoitsalu
+
+mail: jonathan.koitsalu@gmail.com
+
+tel: +46739838178
 
 ## Introduction
 
