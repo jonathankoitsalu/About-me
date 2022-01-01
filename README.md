@@ -28,7 +28,7 @@ Swedish (fluent), French (fluent), English (fluent)
 
 **C** (good), **C++** (good), **Python** (good), JavaScript (basic), SQL (basic), Git (basic)
 
-## My Projects
+## Projects/Collaborations
 
 
 
