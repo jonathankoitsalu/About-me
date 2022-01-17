@@ -32,7 +32,7 @@ Swedish (fluent), French (fluent), English (fluent)
 
 ## Programming languages
 
-**C** (good), **C++** (good), **Python** (good), JavaScript (basic), SQL (basic), Git (basic)
+**C** (good), **C++** (good), **Python** (good), C#(basic), JavaScript (basic), SQL (basic), Git (basic)
 
 ## Projects/Collaborations
 
